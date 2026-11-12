@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B8NDW336HU.com.kimse.app"],
+        "components": [
+          { "/": "/kimse-pages/p" },
+          { "/": "/kimse-pages/p/" },
+          { "/": "/kimse-pages/p.html" }
+        ]
+      }
+    ]
+  }
+}
