@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kimse.app",
+      "sha256_cert_fingerprints": [
+        "5D:CD:E5:E5:37:21:85:29:45:54:F7:46:32:DC:BB:26:9D:7A:F0:50:AD:2C:7D:F0:79:2A:D4:10:7D:C3:92:9F",
+        "49:FF:78:08:93:87:EA:9A:7C:6D:AE:CF:80:BB:C5:82:48:74:FA:8D:1B:2B:AE:1F:3E:0A:A0:AC:F4:29:B2:01"
+      ]
+    }
+  }
+]
